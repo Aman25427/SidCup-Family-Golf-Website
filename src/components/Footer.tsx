@@ -17,15 +17,15 @@ const Footer = () => {
             <div className="space-y-3 text-background/80">
               <div className="flex items-start gap-2">
                 <MapPin className="w-5 h-5 mt-0.5 flex-shrink-0 text-primary-light" />
-                <span>123 Golf ROF Ananda, SidCup, Gurugram Haryan</span>
+                <span>Near Gurgaon Bus Stand, Sector-14, Gurugram, Haryana, India </span>
               </div>
               <div className="flex items-center gap-2">
                 <Phone className="w-5 h-5 flex-shrink-0 text-primary-light" />
-                <span>(+91) 9546995527</span>
+                <span>(+91) 7256092221</span>
               </div>
               <div className="flex items-center gap-2">
                 <Mail className="w-5 h-5 flex-shrink-0 text-primary-light" />
-                <span>info@aryankum70912@gmail.com</span>
+                <span>info@amansinghania07@gmail.com</span>
               </div>
             </div>
           </div>
